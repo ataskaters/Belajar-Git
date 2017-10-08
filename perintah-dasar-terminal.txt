@@ -1,0 +1,34 @@
+Perintah Dasar Terminal Linux Beserta Fungsinya.
+
+ cd : berpindah ke direktori lain.
+ ls : melihat isi dari suatu direktori.
+ pwd : menampilkan nama direktori dimana anda sedang berada.
+ mkdir : membuat direktori baru.
+ touch : membuat file baru dalam keadaan kosong.
+ rm : menghapus file.
+ rmdir : menghapus direktori.
+ clear :  membersihkan seluruh terminal.
+
+
+ mv : memindahkan file, bisa juga untuk merubah nama sebuah file.
+ nano : digunakan untuk text editor.
+ passwd : menggunakan password.
+ chmod : mengatur hak akses suatu file atau direktori.
+ cp : menyalin sebuah file.
+ date : menampilkan tanggal dan waktu.
+ halt : mematikan sistem.
+ history : melihat perintah apa saja yang telah dilakukan.
+ ifconfig : melihat informasi pada kartu jaringan, seperti IP Address, Mac Addres, dll.
+ reboot : menghidupkan ulang sistem/komputer.
+ restart : menjalankan ulang service yang sedang berjalan.
+ shutdown : sama seperti halt, digunakan untuk mematikan sistem.
+ start : menjalankan sebuah service.
+ stop : menghentikan sebuah service yang sedang berjalan.
+ sudo : menjalankan perintah sebagai root.
+ tar : mengekstrak file dengna format *tar.gz*.tgz
+ unzip : digunakan untuk mengekstrak atau mengurai file yang dikompress dalam bentuk *.zip
+ who : digunakan untuk melihat siapa saja yang sedang login.
+ 
+
+ 
+ 
