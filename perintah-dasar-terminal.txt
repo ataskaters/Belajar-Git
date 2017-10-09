@@ -1,4 +1,4 @@
-Perintah Dasar Terminal Linux Beserta Fungsinya.
+Perintah Dasar Terminal Linux Beserta Fungsinya..
 
  cd : berpindah ke direktori lain.
  ls : melihat isi dari suatu direktori.
